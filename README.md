@@ -1,3 +1,3 @@
 # landing-page
 
-Netlify: https://boring-ardinghelli-5168bb.netlify.app/
+Netlify: https://focused-galileo-954439.netlify.app/
