@@ -1,3 +1,3 @@
 # landing-page
 
-Netlify: https://focused-galileo-954439.netlify.app/
+Netlify: https://dunndeft-zaio-landing-page-html-css.netlify.app/
